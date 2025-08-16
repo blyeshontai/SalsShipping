@@ -34,7 +34,7 @@ Drone Shipping: $45.0
 ```
 ---
 
-## Setup
+## How To Run
 
 1. Clone this repository: `git clone [insert repository link here]`
 2. Open the folder in **Visual Studio Code** (or your preferred Python IDE).
