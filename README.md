@@ -25,16 +25,16 @@ This project helps users determine shipping costs for packages using different s
 ---
 
 ## Example Usage
-
+```
 Welcome to Sal's Shippers!
 Enter the weight of your package: 5
 Ground Shipping: $35.0
 Ground Shipping Premium: $125.0
 Drone Shipping: $45.0
-
+```
 ---
 
-## Installation & Setup
+## Setup
 
 1. Clone this repository: `git clone [insert repository link here]`
 2. Open the folder in **Visual Studio Code** (or your preferred Python IDE).
